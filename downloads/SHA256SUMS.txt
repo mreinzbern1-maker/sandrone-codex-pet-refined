@@ -1,0 +1,2 @@
+a662bf8816f7b3bf06942b77add69bee4a57d804b706dc30d5cdd0f2823fe913  Sandrone-Refined-v1.0.0.zip
+b82e685a06635f2fca9210ab8b4f762debb6b2fee5ce0bf92de344153b5dede4  ../pet/sandrone-refined/spritesheet.png

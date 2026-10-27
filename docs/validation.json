@@ -1,0 +1,55 @@
+{
+  "release": "1.0.0",
+  "spriteVersionNumber": 2,
+  "file": "pet/sandrone-refined/spritesheet.png",
+  "sha256": "b82e685a06635f2fca9210ab8b4f762debb6b2fee5ce0bf92de344153b5dede4",
+  "encodedBytes": 2681170,
+  "size": [
+    1536,
+    2288
+  ],
+  "cellSize": [
+    192,
+    208
+  ],
+  "framesPerRow": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "requiredFrames": 73,
+  "atlasValidationPassed": true,
+  "petsApiPreflightPassed": true,
+  "qualityPassed": true,
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      197,
+      191,
+      200,
+      202
+    ],
+    "airborne_lift_pixels": 11,
+    "landing_delta_pixels": 0
+  },
+  "lookCenterDriftPixels": 1.5,
+  "independentDirectionReview": {
+    "reviewers": 3,
+    "pairCount": 14,
+    "majorityPassed": true,
+    "warnings": []
+  },
+  "reviewedContinuityWarning": "The y184 transparency flags are normal gaps between ankles and hanging garment tails, confirmed against a solid background; no material torso hole or seam.",
+  "installedInCodex": true,
+  "storedPixelsMatchValidatedFile": true,
+  "runtimeVerifiedPlatform": "Windows"
+}
